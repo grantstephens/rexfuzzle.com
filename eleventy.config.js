@@ -6,7 +6,8 @@ import { generateImageHtml, generateOgImageUrl, getImageAspectRatio, getImageDom
 import { minifyHtml } from "./eleventy/minify.mjs";
 import { minifyCss } from "./eleventy/css.mjs";
 import { buildSubsetFonts } from "./eleventy/fonts.mjs";
-import { firstSentence, readingTime, firstBodyImage } from "./eleventy/text.mjs";
+import { firstSentence, readingTime, firstBodyImage, tagOutboundLinks } from "./eleventy/text.mjs";
+import site from "./src/_data/site.js";
 
 export default function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
@@ -135,6 +136,12 @@ export default function (eleventyConfig) {
       result = result.replace(fullTag, picture);
     }
     return result;
+  });
+
+  const siteHost = new URL(site.url).host;
+  eleventyConfig.addTransform("outboundLinks", function (content) {
+    if (!this.outputPath || !this.outputPath.endsWith(".html")) return content;
+    return tagOutboundLinks(content, siteHost);
   });
 
   eleventyConfig.addTransform("minifyHtml", function (content) {

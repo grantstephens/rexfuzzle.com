@@ -16,7 +16,7 @@ title: "{{ tag }}"
 
 <div class="tag-list">
 {%- for t in collections.tagList %}
-  <a class="tag-chip{% if t == tag %} current{% endif %}" href="/tags/{{ t | slugify }}/">{{ t }}</a>
+  <a class="tag-chip{% if t == tag %} current{% endif %}" href="/tags/{{ t | slugify }}/" data-umami-event="Tag: {{ t }}">{{ t }}</a>
 {%- endfor %}
 </div>
 

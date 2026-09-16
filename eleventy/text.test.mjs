@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { firstSentence, readingTime, firstBodyImage } from "./text.mjs";
+import { firstSentence, readingTime, firstBodyImage, tagOutboundLinks } from "./text.mjs";
 
 test("firstSentence strips HTML and returns just the first sentence", () => {
   const html = "<p>Routes we did together. This is the second sentence.</p>";
@@ -41,5 +41,27 @@ test("firstBodyImage returns the src of the first in-body image", () => {
 
 test("firstBodyImage returns null when the post has no images", () => {
   assert.equal(firstBodyImage("<p>No images here.</p>"), null);
+});
+
+test("tagOutboundLinks adds an analytics event to off-site links", () => {
+  const html = '<a href="https://example.com/thing">a link</a>';
+  const result = tagOutboundLinks(html, "rexfuzzle.com");
+  assert.match(result, /data-umami-event="Outbound Link"/);
+  assert.match(result, /data-umami-event-url="https:\/\/example\.com\/thing"/);
+});
+
+test("tagOutboundLinks leaves same-site links untouched", () => {
+  const html = '<a href="https://rexfuzzle.com/posts/foo/">internal</a>';
+  assert.equal(tagOutboundLinks(html, "rexfuzzle.com"), html);
+});
+
+test("tagOutboundLinks leaves relative links untouched", () => {
+  const html = '<a href="/tags/photo/">relative</a>';
+  assert.equal(tagOutboundLinks(html, "rexfuzzle.com"), html);
+});
+
+test("tagOutboundLinks does not double-tag a link that already has an event", () => {
+  const html = '<a href="https://example.com" data-umami-event="Custom">already tagged</a>';
+  assert.equal(tagOutboundLinks(html, "rexfuzzle.com"), html);
 });
 

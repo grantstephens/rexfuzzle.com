@@ -11,6 +11,6 @@ permalink: /tags/index.html
 
 <div class="tag-list tag-list--flush">
 {%- for t in collections.tagList %}
-  <a class="tag-chip" href="/tags/{{ t | slugify }}/">{{ t }}</a>
+  <a class="tag-chip" href="/tags/{{ t | slugify }}/" data-umami-event="Tag: {{ t }}">{{ t }}</a>
 {%- endfor %}
 </div>

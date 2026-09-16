@@ -30,6 +30,7 @@
       set (see eleventy/fonts.mjs) - no more Google Fonts round trip. #}
   <link rel="stylesheet" href="/assets/css/style.css">
   <script src="/assets/js/visibility.js" defer></script>
+  <script defer src="https://a7s.hub13.xyz/script.js" data-website-id="5bbc44cd-d639-40ac-9a8f-ebf0c9ead845"></script>
   {#- Recent posts (the first 6 cards in a newest-first grid) are the most
       likely next click, so they prerender eagerly. Older cards further down
       the same grid are much less likely to be opened, so they only
@@ -53,10 +54,10 @@
     <nav class="nav">
       <a class="logo" href="/"><span class="accent-text">R</span>ex<span class="accent-text">F</span>uzzle</a>
       <div class="links">
-        <a href="/">Posts</a>
-        <a href="/tags/">Tags</a>
-        <a href="/feed/feed.xml">Feed</a>
-        <a rel="me" href="{{ site.author.mastodonUrl }}">Mastodon</a>
+        <a href="/" data-umami-event="Nav: Posts">Posts</a>
+        <a href="/tags/" data-umami-event="Nav: Tags">Tags</a>
+        <a href="/feed/feed.xml" data-umami-event="Nav: Feed">Feed</a>
+        <a rel="me" href="{{ site.author.mastodonUrl }}" data-umami-event="Nav: Mastodon">Mastodon</a>
       </div>
       <div class="tagline">{{ site.tagline }}</div>
     </nav>
