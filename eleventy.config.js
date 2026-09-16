@@ -23,12 +23,15 @@ export default function (eleventyConfig) {
 
   // Which post (by slug) will render the first image on a card grid -
   // used to eager-load just that one image instead of every card image.
+  // featureImage only (not a templateContent-based body-image fallback):
+  // reading another page's .templateContent from a plain JS filter is
+  // invisible to Eleventy's render-order dependency graph and can throw
+  // TemplateContentPrematureUseError depending on render timing - every
+  // image-bearing post already has explicit featureImage frontmatter, so
+  // this never needed the fallback in practice.
   eleventyConfig.addFilter("firstImagePostSlug", (posts) => {
-    for (const post of posts) {
-      const img = post.data.featureImage || firstBodyImage(post.templateContent || "");
-      if (img) return post.data.slug;
-    }
-    return null;
+    const post = posts.find((p) => p.data.featureImage);
+    return post ? post.data.slug : null;
   });
 
   // A post's number is its fixed position in chronological (oldest-first)
