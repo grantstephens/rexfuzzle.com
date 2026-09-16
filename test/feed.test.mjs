@@ -19,10 +19,15 @@ test("RSS feed includes one entry per post", async () => {
   assert.equal(entryCount, 3, "expected one entry per fixture post");
 });
 
-test("sitemap includes one url per post", async () => {
+test("sitemap includes the homepage, tag pages, and one url per post", async () => {
   const results = await buildFixtureSite();
   const sitemap = results.find((page) => page.url === "/sitemap.xml");
   assert.ok(sitemap, "expected /sitemap.xml");
+  assert.match(sitemap.content, /<loc>https:\/\/rexfuzzle\.com\/<\/loc>/);
+  assert.match(sitemap.content, /<loc>https:\/\/rexfuzzle\.com\/tags\/<\/loc>/);
+  assert.match(sitemap.content, /<loc>https:\/\/rexfuzzle\.com\/tags\/photography\/<\/loc>/);
+  assert.match(sitemap.content, /<loc>https:\/\/rexfuzzle\.com\/tags\/travel\/<\/loc>/);
   const urlCount = (sitemap.content.match(/<url>/g) || []).length;
-  assert.equal(urlCount, 3, "expected one url per fixture post");
+  // 3 fixture posts + homepage + /tags/ + 2 distinct tags (photography, travel)
+  assert.equal(urlCount, 7);
 });
