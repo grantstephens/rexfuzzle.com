@@ -1,0 +1,11 @@
+---
+permalink: /_redirects
+eleventyExcludeFromCollections: true
+---
+{%- for post in collections.posts %}
+/{{ post.data.slug }}/ {{ post.url }} 301
+{%- endfor %}
+{%- for tag in collections.tagList %}
+/tag/{{ tag | slugify }}/ /tags/{{ tag | slugify }}/ 301
+{%- endfor %}
+/rss/ /feed/feed.xml 301

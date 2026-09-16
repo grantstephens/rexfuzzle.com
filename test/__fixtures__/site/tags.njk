@@ -1,0 +1,14 @@
+---
+pagination:
+  data: collections.tagList
+  size: 1
+  alias: tag
+permalink: "/tags/{{ tag | slugify }}/index.html"
+layout: base.njk
+title: "Tag: {{ tag }}"
+---
+<ul>
+{%- for post in collections.posts | postsByTag(tag) %}
+  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+{%- endfor %}
+</ul>

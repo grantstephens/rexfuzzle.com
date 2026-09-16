@@ -1,0 +1,51 @@
+---
+pagination:
+  data: collections.tagList
+  size: 1
+  alias: tag
+permalink: "/tags/{{ tag | slugify }}/index.html"
+layout: base.njk
+title: "{{ tag }}"
+---
+{%- set taggedPosts = collections.posts | postsByTag(tag) %}
+<div class="tag-head">
+  <div class="label">Browsing tag</div>
+  <h1>{{ tag }}</h1>
+  <div class="tag-count">{{ taggedPosts.length }} POST{% if taggedPosts.length != 1 %}S{% endif %}</div>
+</div>
+
+<div class="tag-list">
+{%- for t in collections.tagList %}
+  <a class="tag-chip{% if t == tag %} current{% endif %}" href="/tags/{{ t | slugify }}/">{{ t }}</a>
+{%- endfor %}
+</div>
+
+<div class="grid">
+{%- set eagerSlug = taggedPosts | firstImagePostSlug %}
+{%- for post in taggedPosts %}
+  {%- set span = "span-2" if loop.index0 % 5 != 0 else "span-3" %}
+  {%- set cardWidthNum = 519 if span == "span-3" else 346 %}
+  {%- set cardSizes = "(max-width: 480px) 100vw, (max-width: 900px) 50vw, " ~ cardWidthNum ~ "px" %}
+  {%- set cardImage = post.data.featureImage or (post.templateContent | firstBodyImage) %}
+  {%- if cardImage %}
+    {%- set areaRatio = cardImage | imageAspectRatio %}
+  {%- else %}
+    {%- set areaRatio = 0.75 %}
+  {%- endif %}
+  {%- set cardHeight = (cardWidthNum * areaRatio) | round + 80 %}
+  <a class="card {{ span }} {{ 'has-img' if cardImage else 'text-only' }}" href="{{ post.url }}" style="contain-intrinsic-size: auto {{ cardHeight }}px;">
+    {%- if cardImage %}
+    {%- set bgColor = cardImage | imageDominantColor %}
+    <div class="card-img">{% image cardImage, post.data.title, cardSizes, post.data.slug == eagerSlug, ("img-" + post.data.slug) if post.data.featureImage else null, bgColor %}</div>
+    {%- else %}
+    {%- set num = post | postNumber(collections.postsOldestFirst) %}
+    <div class="card-area">
+      <div class="num-wrap"><div class="num-fill">{{ num }}</div><div class="num-mask">{{ num }}</div></div>
+      <p class="sentence">{{ post.templateContent | firstSentence }}</p>
+    </div>
+    {%- endif %}
+    <div class="eyebrow accent-text">{{ tag | upper }}</div>
+    <h3>{{ post.data.title }}</h3>
+  </a>
+{%- endfor %}
+</div>

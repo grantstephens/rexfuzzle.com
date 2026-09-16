@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ title }}</title>
+  {%- set currentPost = (collections.posts | postBySlug(slug)) if ogType == 'article' else null %}
+  {%- set metaDescription = description or ((currentPost.templateContent | firstSentence) if currentPost else '') %}
+  <meta name="description" content="{{ metaDescription }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <meta property="og:type" content="{{ ogType or 'website' }}">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ metaDescription }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  {% if featureImage %}<meta property="og:image" content="{{ site.url }}{{ featureImage }}">{% endif %}
+</head>
+<body>{{ content | safe }}</body>
+</html>

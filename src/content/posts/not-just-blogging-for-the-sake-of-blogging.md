@@ -1,0 +1,10 @@
+---
+title: Not just Blogging for the Sake of Blogging
+slug: not-just-blogging-for-the-sake-of-blogging
+date: 2011-11-23T04:00:00.000Z
+tags:
+  - creativity
+description: ''
+---
+
+So here I sit trying to write a blog and all the while i'm thinking that I must not just blog for the sake of having a blog post for the day (Not that that is a mission) and I can't help but think that I have nothing to say. This is therefor a bad time to blog cause everything that I am saying is totally forced and I don't like doing that at all. This got me thinking though, there are a lot of people that just blog for the sake of it and therefor there is a lot of junk out there. Some people just and up making posts about posts about posts and so the cycle keeps on going and you can only wander where the end is. This is maybe how the internet ends up being kept alive- there are basically a very very limited number of thoughts and the rest are copies and adaptations and such and this results in a boring situation. In fact I have often found myself very bored with the world wide web right at my fingertips and nowhere to visit. This begs the question, where is the original content, who is making it and why aren't there more people being original?They (The infamous for famous, depending on what "They've" done) say that there is a massive drop off in the creativity of people at the age of 6. This is when most people start going to school and that makes it s very scary statistic. Surely schools should be more focussed on channeling the creativity in some way, but alas I think that the rules just kill it. Dare I say it, but if you want to be an inventor or artists, don't go to school...So somewhere around this point I would need to start making my point. I could have used this post at numerous points to diss anomalies, in saying that it isn't creative, or it blogs for the sake of blogging and so on and etc. But I have decided against it as I believe that there are more creative ways to vent our vendettas. Essentially this is a post about a post about a post about a post about a post about a post about a post about a post about a post (Specifically  

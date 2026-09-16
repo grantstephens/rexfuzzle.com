@@ -1,0 +1,11 @@
+---
+title: The Great Outdoors
+slug: the-great-outdoors
+date: 2011-11-08T04:00:00.000Z
+tags:
+  - green
+  - random
+description: ''
+---
+
+So for those of you (Does anybody even read this thing- no matter) that don't know me- I spent a very large potion of this last year indoors. On Saturday I went and did some truly outdoors type stuff, to be precise, mountain biking at Groenkloof nature reserve in Pretoria. Wow, we live on a beautiful planet. The trees were green and the sky was blue- what more could you ask for. Now at this point you asking what my point is and to be perfectly honest I don't really know. I sort of just letting this happen. What I do know is that I love it. I am intensely keen on having an office that had green stuff in it one day and that my view will be of something green and not just city scapes. This takes me to the point that there are fewer and fewer places left on the planet that are unimpeded by the human race. Taking a picture of a sunset of mountain range is easy but ensuring that there are no antennae or cable lines in the shot has become the real art. Naturally our friend photoshop can help us out and remove these items but the reality is that our planet is not as pretty as it possibly could be. So now I have stated that the planet is pretty and in the next paragraph stated that it isn't so, where to from here? Well as I see it we either head further and further into the wild to find places that man hasn't affected or we have to make a decision to try to make everything as pretty as we can so it can try to compete with nature. Naturally it will loose the battle but at least we're fighting it. On the original point, not that there was one, I truly think that some form of outdoor activity is very good for the soul. I can go and state that it is like going back to our ground roots and getting in touch with out ancestors and stuff but that may just sound a bit too hippyish, so I won't. I will say that you should try it with and open mind and you might be surprised. You could even scrap the activity part and just be outdoors, although just being is an activity in my book anyway. Anyways, that was all over the place... just like outdoors...Be Green  

@@ -1,0 +1,16 @@
+---
+layout: base.njk
+title: Tags
+description: All tags on RexFuzzle.
+permalink: /tags/index.html
+---
+<div class="tag-head">
+  <div class="label">Browsing</div>
+  <h1>All tags</h1>
+</div>
+
+<div class="tag-list tag-list--flush">
+{%- for t in collections.tagList %}
+  <a class="tag-chip" href="/tags/{{ t | slugify }}/">{{ t }}</a>
+{%- endfor %}
+</div>

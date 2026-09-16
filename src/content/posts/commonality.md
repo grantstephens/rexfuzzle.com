@@ -1,0 +1,10 @@
+---
+title: Commonality
+slug: commonality
+date: 2012-02-08T08:21:00.000Z
+tags:
+  - theory
+description: ''
+---
+
+What is it about humans? Ok, well that is broad, let me specify... When you meet someone and get to know them at some point in the friendship you look for things that you have in common, eg: "I love this song" "No ways, me too" #Turn up the stereo to avoid more awkward conversation. Now there are a couple of things that have occurred to me regarding this. Firstly, what makes a conversation interesting is if you differ on something and have to explain why, otherwise you just agree and move on. Now by explaining your point of view or liking of a certain song you are opening the listening part up to appreciating it too or to them changing your point of view by pointing out a flaw in your argument. Ok, so that is very complex and stuff and itself could be discussed at length, which will not be done now. The second thing that occurred to me was how at a certain point things become common in a bad way. Think about it, at some point somebody decided that having a blackberry was a good idea, now everybody has one and suddenly it is cooler if you have the next new and exciting thing. Ok, wait, let me think of an example where I won't annoy most of my readers. At some point somebody decided that mullets were cool. Suddenly you were only cool if you had a mullet until that one day when whilst driving through Danville (No offence) you saw a mechanic with a mullet and in that instant they weren't cool anymore. Suppose some people will say that it is like a fashion wheel that turns but my point here is that is everybody liked orange sunglasses then they would become common and no longer be something you would have to explain and in so doing letting someone get to know you. Wow, slight tangent there, but I think I'm back on track. The point that I'm trying to make here is that commonalities are not a good thing and make the world dull and uninteresting, so I am trying to avoid them at all costs. Be Original  

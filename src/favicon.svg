@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <text x="6" y="23" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="18" fill="#f75bb0">R
+    <animate attributeName="fill" values="#f75bb0;#f76b71;#4bbb2d;#f76b71;#f75bb0" dur="28s" repeatCount="indefinite"/>
+  </text>
+  <text x="17" y="23" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="18" fill="#f75bb0">F
+    <animate attributeName="fill" values="#f75bb0;#f76b71;#4bbb2d;#f76b71;#f75bb0" dur="28s" repeatCount="indefinite"/>
+  </text>
+</svg>

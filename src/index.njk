@@ -1,0 +1,42 @@
+---
+layout: base.njk
+title: RexFuzzle
+description: A blog about 3D printing, photography, and whatever else comes up.
+---
+<h1 class="visually-hidden">{{ site.title }} — recent posts</h1>
+<div class="grid">
+{%- set eagerSlug = collections.posts | firstImagePostSlug %}
+{%- for post in collections.posts %}
+  {%- set span = "span-2" if loop.index0 % 5 != 0 else "span-3" %}
+  {%- set cardWidthNum = 519 if span == "span-3" else 346 %}
+  {%- set cardSizes = "(max-width: 480px) 100vw, (max-width: 900px) 50vw, " ~ cardWidthNum ~ "px" %}
+  {%- set tag = post.data.tags[0] %}
+  {%- set cardImage = post.data.featureImage or (post.templateContent | firstBodyImage) %}
+  {#- Real aspect ratio for image cards (from the actual photo, already
+      computed by the image pipeline) vs the fixed 4:3 the text-only
+      layout uses - either way this is the real rendered height, not a
+      single guessed number for every card regardless of shape. Nunjucks
+      evaluates async filters in a ternary unconditionally, so this needs
+      a real if/else block rather than `x if cond else y`. #}
+  {%- if cardImage %}
+    {%- set areaRatio = cardImage | imageAspectRatio %}
+  {%- else %}
+    {%- set areaRatio = 0.75 %}
+  {%- endif %}
+  {%- set cardHeight = (cardWidthNum * areaRatio) | round + 80 %}
+  <a class="card {{ span }} {{ 'has-img' if cardImage else 'text-only' }}" href="{{ post.url }}" style="contain-intrinsic-size: auto {{ cardHeight }}px;">
+    {%- if cardImage %}
+    {%- set bgColor = cardImage | imageDominantColor %}
+    <div class="card-img">{% image cardImage, post.data.title, cardSizes, post.data.slug == eagerSlug, ("img-" + post.data.slug) if post.data.featureImage else null, bgColor %}</div>
+    {%- else %}
+    {%- set num = post | postNumber(collections.postsOldestFirst) %}
+    <div class="card-area">
+      <div class="num-wrap"><div class="num-fill">{{ num }}</div><div class="num-mask">{{ num }}</div></div>
+      <p class="sentence">{{ post.templateContent | firstSentence }}</p>
+    </div>
+    {%- endif %}
+    {%- if tag %}<div class="eyebrow accent-text">{{ tag | upper }}</div>{%- endif %}
+    <h3>{{ post.data.title }}</h3>
+  </a>
+{%- endfor %}
+</div>

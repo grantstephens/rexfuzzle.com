@@ -1,0 +1,47 @@
+---
+layout: base.njk
+ogType: article
+---
+<article>
+  <div class="post-head">
+    <h1>{{ title }}</h1>
+    <div class="meta-block">
+      {% if tags.length %}
+      <div class="field">
+        <div class="k">Tag{% if tags.length > 1 %}s{% endif %}</div>
+        <div class="v tag">{%- for t in tags %}<a href="/tags/{{ t | slugify }}/">{{ t }}</a>{% if not loop.last %}, {% endif %}{% endfor -%}</div>
+      </div>
+      {% endif %}
+      <div class="field">
+        <div class="k">Date</div>
+        <div class="v"><time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time></div>
+      </div>
+      <div class="field">
+        <div class="k">Read</div>
+        <div class="v">{{ content | readingTime }} min</div>
+      </div>
+    </div>
+  </div>
+  <div class="post-body">
+    {% if featureImage %}{% set heroBgColor = featureImage | imageDominantColor %}{% image featureImage, title, "(max-width: 680px) 100vw, 620px", true, "img-" + slug, heroBgColor %}{% endif %}
+    {{ content | safe }}
+  </div>
+</article>
+
+{%- set metaDescription = description or (content | firstSentence) %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ title | dump | safe }},
+  "description": {{ metaDescription | dump | safe }},
+  "datePublished": "{{ date | htmlDateString }}",
+  "url": "{{ site.url }}{{ page.url }}",
+  "author": {
+    "@type": "Person",
+    "name": {{ site.author.name | dump | safe }},
+    "sameAs": [{{ site.author.mastodonUrl | dump | safe }}]
+  }{% if featureImage %},
+  "image": "{{ site.url }}{{ featureImage }}"{% endif %}
+}
+</script>

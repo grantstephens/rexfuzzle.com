@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.url }}/feed/feed.xml">
+  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#121212" media="(prefers-color-scheme: dark)">
+  <title>{{ title }}{% if title != site.title %} · {{ site.title }}{% endif %}</title>
+  {#- content here is the fully-wrapped article HTML (title, meta-block,
+      body), not just the post's own prose, so a missing description falls
+      back to the post's real rendered body via the posts collection
+      instead of firstSentence-ing that contaminated markup. #}
+  {%- set currentPost = (collections.posts | postBySlug(slug)) if ogType == 'article' else null %}
+  {%- set metaDescription = description or ((currentPost.templateContent | firstSentence) if currentPost else '') %}
+  <meta name="description" content="{{ metaDescription }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <meta property="og:type" content="{{ ogType or 'website' }}">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ metaDescription }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  {%- set ogSrc = (featureImage or (content | firstBodyImage)) if ogType == 'article' else null %}
+  {% if ogSrc %}<meta property="og:image" content="{{ site.url }}{% ogImageUrl ogSrc %}">{% endif %}
+  <meta name="twitter:card" content="{% if ogSrc %}summary_large_image{% else %}summary{% endif %}">
+  <meta name="twitter:title" content="{{ title }}">
+  <meta name="twitter:description" content="{{ metaDescription }}">
+  {% if ogSrc %}<meta name="twitter:image" content="{{ site.url }}{% ogImageUrl ogSrc %}">{% endif %}
+  {#- Self-hosted, subsetted at build time to this site's actual character
+      set (see eleventy/fonts.mjs) - no more Google Fonts round trip. #}
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <script src="/assets/js/visibility.js" defer></script>
+  {#- Recent posts (the first 6 cards in a newest-first grid) are the most
+      likely next click, so they prerender eagerly. Older cards further down
+      the same grid are much less likely to be opened, so they only
+      prerender on an actual pointerdown. Everything else (nav, tag chips,
+      in-body links) keeps the old moderate default. #}
+  <script type="speculationrules">
+  {
+    "prerender": [
+      { "where": { "selector_matches": ".grid a.card:nth-child(-n+6)" }, "eagerness": "eager" },
+      { "where": { "and": [
+          { "selector_matches": ".grid a.card" },
+          { "not": { "selector_matches": ".grid a.card:nth-child(-n+6)" } }
+        ] }, "eagerness": "conservative" },
+      { "where": { "not": { "selector_matches": ".grid a.card" } }, "eagerness": "moderate" }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <div class="page">
+    <nav class="nav">
+      <a class="logo" href="/"><span class="accent-text">R</span>ex<span class="accent-text">F</span>uzzle</a>
+      <div class="links">
+        <a href="/">Posts</a>
+        <a href="/tags/">Tags</a>
+        <a href="/feed/feed.xml">Feed</a>
+        <a rel="me" href="{{ site.author.mastodonUrl }}">Mastodon</a>
+      </div>
+      <div class="tagline">{{ site.tagline }}</div>
+    </nav>
+    <main>
+      {{ content | safe }}
+    </main>
+  </div>
+</body>
+</html>

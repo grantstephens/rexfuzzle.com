@@ -1,0 +1,26 @@
+{
+  "name": "rexfuzzle-com",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "eleventy --input=src --output=_site",
+    "serve": "eleventy --input=src --output=_site --serve",
+    "test": "node --test eleventy test"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.6",
+    "@11ty/eleventy-img": "^7.0.0",
+    "@11ty/eleventy-plugin-rss": "^2.0.4",
+    "@ibm/plex-mono": "^2.5.0",
+    "@ibm/plex-sans": "^1.1.0",
+    "clean-css": "^5.3.3",
+    "entities": "^6.0.1",
+    "html-minifier-terser": "^7.2.0",
+    "luxon": "^3.7.2",
+    "sharp": "^0.35.4",
+    "subset-font": "^2.7.0"
+  }
+}
