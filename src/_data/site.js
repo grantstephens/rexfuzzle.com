@@ -6,5 +6,6 @@ export default {
     name: "Grant Stephens",
     mastodonHandle: "@g@defg.diy",
     mastodonUrl: "https://social.defg.diy/@g",
+    projectsUrl: "https://hub13.xyz",
   },
 };
