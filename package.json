@@ -8,6 +8,7 @@
   "scripts": {
     "build": "eleventy --input=src --output=_site",
     "serve": "eleventy --input=src --output=_site --serve",
+    "new-post": "node scripts/new-post.mjs",
     "test": "node --test eleventy test"
   },
   "devDependencies": {
