@@ -5,7 +5,7 @@ date: 2012-01-23T04:15:00.000Z
 tags:
   - photo
   - green
-description: ''
+description: "Sometimes all I need is some time in the garden with a camera- most shots turn out to be nothing, but some do, like this mint plant."
 featureImage: /assets/images/green-mint/IMG_3696-1024x682.jpg
 ---
 

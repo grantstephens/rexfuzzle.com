@@ -5,7 +5,7 @@ date: 2011-12-16T19:07:00.000Z
 tags:
   - theory
   - sunset
-description: ''
+description: "Sunsets are a big reminder, nearly every day, that this moment will never happen again- don't waste time or time will waste you."
 ---
 
 So by now you may have realised that I kinda like taking pictures of sunsets and thus it stands to reason that I like sunsets. Now obviously it is cause they are pretty a lot of the time, but there are many meanings that can be attached to sunsets.  

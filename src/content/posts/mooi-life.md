@@ -6,7 +6,7 @@ tags:
   - life
   - train
   - poem
-description: ''
+description: "A poem about looking out the window, life flying by and a train suddenly appearing in the frame- life is very mooi!"
 ---
 
 I look out my window  

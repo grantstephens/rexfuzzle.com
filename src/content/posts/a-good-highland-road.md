@@ -3,7 +3,7 @@ title: A Good Highland Road
 slug: a-good-highland-road
 date: 2021-12-04T07:23:11.000Z
 tags: []
-description: ''
+description: "Thinking back to summer and an amazing road through the Scottish highlands- the point is being out there finding your own."
 featureImage: /assets/images/a-good-highland-road/GoodHighlandRoad.jpg
 ---
 

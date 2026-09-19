@@ -7,7 +7,7 @@ tags:
   - sunset
   - ultimate
   - green
-description: ''
+description: "On awesome summer's eves the sun goes down, the lights come on and the games really begin- nothing like summer and some ultimate."
 featureImage: /assets/images/ultimate-lighting/IMG_2608-1024x682.jpg
 ---
 

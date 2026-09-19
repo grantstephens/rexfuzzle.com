@@ -5,7 +5,7 @@ date: 2020-07-24T13:30:14.000Z
 tags:
   - coding
   - developer
-description: ''
+description: "Help somebody with a PR review or a bug and you build up brownie points- the you scratch my back and I'll scratch yours of the coding world."
 featureImage: /assets/images/developer-capital/IMG_20181027_142702_HDR-EFFECTS.jpg
 ---
 

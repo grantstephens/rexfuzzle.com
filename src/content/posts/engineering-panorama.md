@@ -6,7 +6,7 @@ tags:
   - photo
   - panorama
   - night
-description: ''
+description: "Four photos expertly combined to make the new engineering building's right-angled intersection not look right angled."
 featureImage: /assets/images/engineering-panorama/eng3pana-1024x451.jpg
 ---
 

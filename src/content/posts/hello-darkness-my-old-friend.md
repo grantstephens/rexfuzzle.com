@@ -7,7 +7,7 @@ tags:
   - yolo
   - cycling
   - lesotho
-description: ''
+description: "The blog makes it, so I blog again- a summary of a lot that has happened, in photos and random pieces of supposed wisdom."
 featureImage: /assets/images/hello-darkness-my-old-friend/IMG_6105-1024x682.jpg
 ---
 

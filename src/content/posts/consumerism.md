@@ -6,7 +6,7 @@ tags:
   - wisdom
   - happiness
   - consumerism
-description: ''
+description: "Consumerism makes me sick- where does the want for cool stuff come from, and how do I stop going to the shop for it?"
 ---
 
 Good day!  

@@ -6,7 +6,7 @@ tags:
   - photo
   - lesotho
   - sunset
-description: ''
+description: "A sunset over Katse dam in the Kingdom in the Mountains- I'm not going to kid around, there was quite a bit of editing."
 featureImage: /assets/images/katse-sunset/IMG_4904-1024x682.jpg
 ---
 

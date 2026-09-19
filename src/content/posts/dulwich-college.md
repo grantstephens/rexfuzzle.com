@@ -7,7 +7,7 @@ tags:
   - dulwich
   - london
   - lockdown
-description: ''
+description: "Something you go past often but it's never the right time for a photo- today it was."
 featureImage: /assets/images/dulwich-college/IMG_20200412_053208.jpg
 ---
 

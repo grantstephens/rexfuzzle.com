@@ -5,7 +5,7 @@ date: 2012-01-30T18:37:00.000Z
 tags:
   - photo
   - lesotho
-description: ''
+description: "A little bit of Lesotho- Moateng pass, infinite mountains and a road more awesome to drive than it looks. Also their main highway."
 featureImage: /assets/images/moateng-you-shall-pass/IMG_3800a-1024x682.jpg
 ---
 

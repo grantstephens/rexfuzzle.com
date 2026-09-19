@@ -6,7 +6,7 @@ tags:
   - bridge
   - clouds
   - river
-description: ''
+description: "As it turns out there is a Perth in Scotland and it can be rather pretty."
 featureImage: /assets/images/perth-scotland/IMG_20210404_153347-01.jpg
 ---
 

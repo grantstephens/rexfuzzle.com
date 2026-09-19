@@ -7,7 +7,7 @@ tags:
   - vaal
   - parys
   - skiing
-description: ''
+description: "Late afternoon, one of the last skis of the day on the river and water like glass... ah, bliss."
 featureImage: /assets/images/sunset-glass-water-ski/DSC00536-001-1024x768.jpg
 ---
 

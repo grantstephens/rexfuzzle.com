@@ -5,7 +5,7 @@ date: 2012-01-25T04:00:00.000Z
 tags:
   - photo
   - pride
-description: ''
+description: "My Dad, of whom I am most proud- late 50's, hip replacement, and no photoshop used."
 featureImage: /assets/images/my-pride/DSC00538-1024x768.jpg
 ---
 

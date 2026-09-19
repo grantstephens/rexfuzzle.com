@@ -5,7 +5,7 @@ date: 2020-04-30T17:32:19.000Z
 tags:
   - lockdown
   - relativity
-description: ''
+description: "6 weeks of lockdown feels like forever, but 6 weeks / 30 years is 0.3%- this too shall pass, and one day we'll fly over this canyon."
 ---
 
 So the world is a different place right now. A large proportion of the world's population is in lock-down of some form or another. Life might look a whole lot different right now.

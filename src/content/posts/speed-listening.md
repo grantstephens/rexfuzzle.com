@@ -4,7 +4,7 @@ slug: speed-listening
 date: 2014-09-01T20:21:59.000Z
 tags:
   - open
-description: ''
+description: "Speed up whatever you're listening to, then cut out the pauses- maybe we can take in more, who knows?"
 ---
 
 So by the title the idea is simple. Speed up whatever you're listening to so that you can get though it faster. I've been playing around with this a bit and found that I can quite easily listen to podcasts at around 1.5x but I'm slowly increasing the speed from there. Numbers around 4x have been thrown around on the web, so that would be interesting.  

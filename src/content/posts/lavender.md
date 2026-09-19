@@ -5,7 +5,7 @@ date: 2011-11-10T08:00:00.000Z
 tags:
   - photo
   - green
-description: ''
+description: "A lot of photoshop and some pretty heavy editing- a lavender flower with a now very blurred background."
 featureImage: /assets/images/lavender/lavender-001-682x1024.jpg
 ---
 

@@ -7,7 +7,7 @@ tags:
   - future
   - freedom
   - wedding
-description: ''
+description: "A friend's wedding sparks the security vs freedom debate- we all have to grow up at some point, but I'm keeping my freedom."
 ---
 
 So this weekend I went to a friend of mine's wedding. On the surface a normal occurrence, but lying in bed now it does not feel that way.  

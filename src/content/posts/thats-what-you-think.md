@@ -5,7 +5,7 @@ date: 2012-03-29T02:59:00.000Z
 tags:
   - life
   - plans
-description: ''
+description: "I had plans, I had dreams, and I ended up in the lab building stuff- life is what happens when you're making other plans."
 ---
 
 So yesterday I had plans, I had dreams. It was going to be a productive day and I was going to get stuff done. What happened?  

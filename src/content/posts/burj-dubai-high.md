@@ -4,7 +4,7 @@ slug: burj-dubai-high
 date: 2012-10-10T10:41:00.000Z
 tags:
   - photo
-description: ''
+description: "The tallest building in the world with the moon in the shot- a happy accident."
 featureImage: /assets/images/burj-dubai-high/IMG_5721-682x1024.jpg
 ---
 

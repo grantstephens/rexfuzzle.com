@@ -7,7 +7,7 @@ tags:
   - lesotho
   - mountains
   - clouds
-description: ''
+description: "Sunsets happen every day, sometimes they take a bit of a hike- this one at the top of Baboon's pass, with lovely local visitors."
 featureImage: /assets/images/lesotho-sunset/IMG_20181219_190747_HDR-01.jpg
 ---
 

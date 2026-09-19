@@ -3,7 +3,7 @@ title: Just By Chance
 slug: just-by-chance
 date: 2020-01-21T11:51:00.000Z
 tags: []
-description: ''
+description: "A South African R5 coin stuck in a London pool locker, 12000km from home- a reminder of how random everything is."
 ---
 
 So today my locker at the pool was broken. Turns out there was a coin stuck in it... A South African R5 coin, in a pool locker in London, England, more than 12000km away. What are the chances?

@@ -5,7 +5,7 @@ date: 2012-06-30T08:00:00.000Z
 tags:
   - awesome
   - pride
-description: ''
+description: "The 99th post on my humble blog, plus the 3 most read posts for interest's sake."
 ---
 
 So believe it or not this is the 99th post on my humble blog.  

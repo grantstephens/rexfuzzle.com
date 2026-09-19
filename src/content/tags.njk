@@ -41,7 +41,7 @@ title: "{{ tag }}"
     {%- set num = post | postNumber(collections.postsOldestFirst) %}
     <div class="card-area">
       <div class="num-wrap"><div class="num-fill">{{ num }}</div><div class="num-mask">{{ num }}</div></div>
-      <p class="sentence">{{ post.templateContent | firstSentence }}</p>
+      <p class="sentence">{{ post.data.description or (post.templateContent | firstSentence) }}</p>
     </div>
     {%- endif %}
     <div class="eyebrow accent-text">{{ tag | upper }}</div>

@@ -4,7 +4,7 @@ slug: accomplishments
 date: 2011-12-29T15:08:00.000Z
 tags:
   - pride
-description: ''
+description: "Those little victories that mean the world to you but nobody else would ever comprehend- this is about those."
 ---
 
 You know those little victories that you have? Well today I had one. Now I can't tell you what it is cause that is not what this is about. This post is about the things we do that mean a lot to us in our head and nobody else would ever comprehend the scale of how much it means to us.  

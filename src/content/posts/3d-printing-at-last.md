@@ -6,7 +6,7 @@ tags:
   - 3dprinting
   - ecksbot
   - open
-description: ''
+description: "One of the first prints on our brand new 3D printer- exciting times!"
 ---
 
 <figure class="kg-card kg-embed-card"><iframe width="480" height="270" src="https://www.youtube.com/embed/zIMxKf88uhE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" loading="lazy"></iframe></figure>

@@ -6,7 +6,7 @@ tags:
   - photo
   - campus
   - rain
-description: ''
+description: "The UP campus at night- three exposures combined into an HDR of shiny rain, blurry trees and centenary balls."
 featureImage: /assets/images/campus-balls/balls-001-1024x683.jpg
 ---
 

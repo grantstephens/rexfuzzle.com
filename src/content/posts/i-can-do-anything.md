@@ -4,7 +4,7 @@ slug: i-can-do-anything
 date: 2012-06-26T05:16:00.000Z
 tags:
   - positivity
-description: ''
+description: "World at my feet moments, usually brought on by the Gladiator soundtrack- music as a tool for governing our emotions."
 ---
 
 Sometimes in my life I have these moments where I am sitting around thinking I can do anything. Not in the strip down and streak type sense but more in the world is at my feet and I just need to take the first step.  

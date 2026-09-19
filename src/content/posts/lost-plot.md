@@ -3,7 +3,7 @@ title: Lost Plot
 slug: lost-plot
 date: 2011-11-17T16:31:00.000Z
 tags: []
-description: ''
+description: "A diss duel of literary creativeness- losing the plot while trying to describe losing the plot."
 ---
 
 You know that moment when you loose the plot, kinda like when mommy starts hitting daddy at the dinner table... wait no, that's not it. Um when you bought a piece of land a long time ago that wasn't big enough to be called a farm but wasn't in the city and now you've gone looking for it and can't find it... no, that is losing a different plot. How about when you are doing your final year thesis and you are making a poster for it and on it there is a graph, to be more precise, a plot of... you get where this is going.  

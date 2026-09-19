@@ -5,7 +5,7 @@ date: 2011-11-12T06:00:00.000Z
 tags:
   - photo
   - vaal
-description: ''
+description: "A rafting trip down the Vaal river on a sunny summer's day- no editing, and yes, the camera got wet."
 featureImage: /assets/images/white-water/P3060034-1024x768.jpg
 ---
 

@@ -7,7 +7,7 @@ tags:
   - creative writing
   - life
   - love
-description: ''
+description: "Life happens, you meet people, you get to know them, you share life, you love. Why?"
 ---
 
 Begin

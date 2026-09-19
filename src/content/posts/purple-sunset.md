@@ -7,7 +7,7 @@ tags:
   - sunset
   - vaal
   - parys
-description: ''
+description: "A sunset over the Vaal river with purple clouds- I missioned home quickly to catch it. Chase your photo."
 featureImage: /assets/images/purple-sunset/IMG_1778-1024x682.jpg
 ---
 

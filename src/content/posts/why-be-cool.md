@@ -6,7 +6,7 @@ tags:
   - yolo
   - dating
   - cool
-description: ''
+description: "When you're on the cover of Time magazine, why not buy a copy? Why our human nature tells us to try to be cool instead."
 ---
 
 Note: Spoilers if you haven't seen The Secret Life of Walter Mitty  

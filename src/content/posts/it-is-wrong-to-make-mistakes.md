@@ -4,7 +4,7 @@ slug: it-is-wrong-to-make-mistakes
 date: 2012-06-27T05:25:00.000Z
 tags:
   - creativity
-description: ''
+description: "Teacher asks question, student gets it wrong, creativity dies a little bit- we are taught that mistakes are wrong. Be Wrong."
 ---
 
 Teacher asks question.  

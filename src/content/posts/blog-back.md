@@ -5,7 +5,7 @@ date: 2016-07-30T20:38:00.000Z
 tags:
   - blogging
   - jekyll
-description: ''
+description: "The blog is back! All the old posts survived the move and there's a stack of mountain photos waiting to be shared."
 ---
 
 So here we are- the blog is back! Yay!  

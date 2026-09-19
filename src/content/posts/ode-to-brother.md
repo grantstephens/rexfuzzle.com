@@ -7,7 +7,7 @@ tags:
   - '21'
   - ode
   - birthday
-description: ''
+description: "My fool brother turns 21 and now goes to real jail- an ode to the most awesome living arrangement ever."
 ---
 
 Yesterday my fool brother, Craig, turned 21. I reminded him that now he goes to real jail.  

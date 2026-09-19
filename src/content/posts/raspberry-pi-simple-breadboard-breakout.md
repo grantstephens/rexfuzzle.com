@@ -4,7 +4,7 @@ slug: raspberry-pi-simple-breadboard-breakout
 date: 2013-03-20T18:19:05.000Z
 tags:
   - open
-description: ''
+description: "Why buy a GPIO breakout board when veroboard, 52 pins and some solder will do- a simple breadboard breakout for the Raspberry Pi."
 featureImage: /assets/images/raspberry-pi-simple-breadboard-breakout/IMG_20130319_114727-1024x768.jpg
 ---
 

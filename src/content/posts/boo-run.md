@@ -6,7 +6,7 @@ tags:
   - running
   - boo
   - interactions
-description: ''
+description: "Somebody stuck their arm out and shouted boo while I was running past- what kind of reaction were they hoping for?"
 ---
 
 So I run a fair amount and on most days nothing out of the ordinary happens, but the other day somebody said boo.

@@ -5,7 +5,7 @@ date: 2014-10-19T01:04:56.000Z
 tags:
   - positivity
   - creativity
-description: ''
+description: "It's very difficult to get a negative comment on something you've made- so I've started asking for one. There has to be something wrong with everything."
 ---
 
 So recently I've been doing some work on this and that and noticed something. It is very difficult to get a negative comment on something that you've made or done. For example, I made a facebook cover page for something a friend of mine and I are going to launch. I wasn't particularly impressed with the page, but uploaded it and asked for his comment. Nothing- only that looks good. Similar thing happened with a video I made, nothing but no comment or that looks good kinda vibe. Maybe I'm too cynical or something but I simple don't believe it, that or people have lost opinions along the way.  

@@ -6,7 +6,7 @@ tags:
   - photo
   - pride
   - coldplay
-description: ''
+description: "On a blog I get to show off a little- my picture was the exhibition of the day on the coldplay.com website."
 ---
 
 So on a blog, especially mine, I get to show off a little bit, I think, so here goes...  

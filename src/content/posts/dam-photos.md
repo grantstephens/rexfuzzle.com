@@ -6,7 +6,7 @@ tags:
   - lesotho
   - sunset
   - panorama
-description: ''
+description: "A roundup of some of the best dam photos that didn't get posts of their own."
 featureImage: /assets/images/dam-photos/KatseSunset-1024x377.jpg
 ---
 

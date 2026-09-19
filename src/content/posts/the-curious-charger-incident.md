@@ -4,7 +4,7 @@ slug: the-curious-charger-incident
 date: 2012-01-29T18:19:00.000Z
 tags:
   - lesotho
-description: ''
+description: "A stranger in Lesotho stops us and tries to hand me a cell phone charger- things like this never happen anymore."
 ---
 
 So some things just don't happen anymore these days. The other day I was in Lesotho (I do things like this from time to time) and there we were, driving along, trying not to loose our minds at all the blind rises and a car comes past us and signals us to stop. What? Stop in a foreign country cause a random car tells you to? Well I am still not entirely sure who the police are so I stopped. The other driver gets out (I was getting ready for a quick escape- first gear and wheels turned) and walk over and starts trying to give me a cell phone charger- What? Ok, firstly, yes they have phones in Lesotho with coverage in certain areas, but why is this complete stranger giving me a charger?  

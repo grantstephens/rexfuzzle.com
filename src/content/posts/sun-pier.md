@@ -5,7 +5,7 @@ date: 2011-12-28T10:00:00.000Z
 tags:
   - photo
   - sunset
-description: ''
+description: "From Namibia as well, edited slightly in photoshop to bring out the colours- only possible because I was shooting in RAW."
 featureImage: /assets/images/sun-pier/IMG_4046a-1024x682.jpg
 ---
 

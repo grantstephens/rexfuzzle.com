@@ -5,7 +5,7 @@ date: 2011-12-13T16:10:00.000Z
 tags:
   - theory
   - language
-description: ''
+description: "Adding a new word to the english language- beed, the past tense of be. Right now I can just be, but when I look back, then I beed."
 ---
 
 I would like to add a new word, not that there aren't enough in the english language, but I kinda like this one a lot:  

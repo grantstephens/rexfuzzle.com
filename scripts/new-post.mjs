@@ -40,7 +40,6 @@ title: ${title}
 slug: ${slug}
 date: ${date}
 tags: []
-description: ''
 ---
 
 `;
@@ -53,5 +52,7 @@ console.log(`Created ${path.relative(process.cwd(), postPath)}`);
 console.log(`Image folder ready at ${path.relative(process.cwd(), imagesDir)}/`);
 console.log(`\nNext:`);
 console.log(`  - Write the post, drop any photos into that image folder`);
-console.log(`  - Set featureImage in the frontmatter if the post has a hero photo`);
+console.log(`  - Set featureImage in the frontmatter if the post has a hero photo
+  - Write a description teaser in the frontmatter (used for search/social
+    snippets and the homepage card); the post's first sentence is the fallback`);
 console.log(`  - npm run serve to preview`);

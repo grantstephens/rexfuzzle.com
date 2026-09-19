@@ -5,7 +5,7 @@ date: 2012-01-31T07:00:00.000Z
 tags:
   - night
   - raining
-description: ''
+description: "Turns out you can go running in the dark, and it is awesome- dark, wet, tiring and buckets of fun."
 ---
 
 So it is like night swimming but also not at all.  

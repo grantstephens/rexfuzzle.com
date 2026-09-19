@@ -7,7 +7,7 @@ tags:
   - sunset
   - reflection
   - river
-description: ''
+description: "Home is what the heart wants and it keeps wanting till you give in- even when it's a 6-month Cinnabon craving."
 featureImage: /assets/images/home/IMG_20191202_184602-01-1.jpg
 ---
 

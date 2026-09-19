@@ -4,7 +4,7 @@ slug: overboard
 date: 2011-11-16T14:00:00.000Z
 tags:
   - overboard
-description: ''
+description: "What overboard actually means, explained with a challenge that got out of hand- a post about a post about a post."
 ---
 
 Technically overboard means when something goes over the side of a ship, this is usually a bad thing unless that this was walking the plank.  

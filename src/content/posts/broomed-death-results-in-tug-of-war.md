@@ -4,7 +4,7 @@ slug: broomed-death-results-in-tug-of-war
 date: 2011-12-19T05:59:00.000Z
 tags:
   - tia
-description: ''
+description: "A dog, a broom, torches and a trespassing snake in Namibia- ritual-like action on a glorious summer evening."
 ---
 
 So there we were, in Namibia on a glorious summer evening chilling outside. The eating had been concluded and there was a rather intense discussion going on but that is not the subject of this post.  

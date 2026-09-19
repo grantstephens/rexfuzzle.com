@@ -5,7 +5,7 @@ date: 2011-12-23T05:00:00.000Z
 tags:
   - dating
   - friendship
-description: ''
+description: "From knowing their name to things there is no turning back from- a healthy guide to the levels of friendship."
 ---
 
 Level 0  

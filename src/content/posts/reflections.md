@@ -5,7 +5,7 @@ date: 2012-04-14T12:17:00.000Z
 tags:
   - photo
   - lesotho
-description: ''
+description: "Once again on the dam, this time on a perfectly still morning- quite something to take in all at once."
 featureImage: /assets/images/reflections/IMG_4959-1024x682.jpg
 ---
 

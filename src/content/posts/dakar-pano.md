@@ -9,7 +9,7 @@ tags:
   - panorama
   - dakar
   - chile
-description: ''
+description: "A pano from Chile, somewhere in the Atacama- the start of a slight Dakar photo binge."
 featureImage: /assets/images/dakar-pano/1-1-P1170339-4-P1170342.jpg
 ---
 

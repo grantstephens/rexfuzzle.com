@@ -6,7 +6,7 @@ tags:
   - sunset
   - dating
   - friendship
-description: ''
+description: "An attempted sunrise surf in Durban- bitterly cold, everybody with bad hair, and no buffet of girls in Ballito."
 ---
 
 So I recently went surfing, well attempted to anyway. In a word, it was cold. I somehow managed to choose a terrible day to go surfing- there was a cold wind and the water wasn’t exactly warm either. But there we were- in Durban, at sunrise, surfing. Let me clarify a few things- we being myself and a friend from work who offered to show me how its done, sunrise, being the time when we were supposed to see the sun rising but couldn’t due to the overcast rainy weather and surfing loosely interpreted as trying to stand up on a board whilst riding a wave.  

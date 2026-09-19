@@ -10,7 +10,7 @@ tags:
   - dulwich
   - future
   - hinge
-description: ''
+description: "Why buy an engagement ring when you can design one in code, encode our first date's GPS data into titanium and finish it by hand?"
 featureImage: /assets/images/diy-ti-engagement-ring/final-1.jpg
 ---
 

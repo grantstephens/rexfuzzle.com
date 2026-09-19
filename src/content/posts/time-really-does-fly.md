@@ -3,7 +3,7 @@ title: Time really does fly
 slug: time-really-does-fly
 date: 2020-02-06T07:08:16.000Z
 tags: []
-description: ''
+description: "At 4 a year is 25% of your life, at 50 it is 2%- time really does fly the older you get. Stop comparing and count every second."
 ---
 
 I was reading something the other day that pointed out that time really does fly the older you get because relatively speaking it is less.

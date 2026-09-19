@@ -6,7 +6,7 @@ tags:
   - future
   - dakar
   - adventure
-description: ''
+description: "How a tweet turned into being race engineer for the DMack/Barden Dakar rally team- the toughest race on earth."
 ---
 
 So the last two and a bit months have been a little crazy, ok, maybe flat-out insane would be a better description. I am officially the race engineer for the DMack/Barden Dakar rally team which starts on the 5th of January 2014. I will somehow try to explain all that now.  

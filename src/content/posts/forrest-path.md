@@ -6,7 +6,7 @@ tags:
   - running
   - finland
   - forest
-description: ''
+description: "A very nice piece of single track on a run through a Finnish forest, mostly over a marsh with planks."
 featureImage: /assets/images/forrest-path/IMG_20190815_163018-01.jpg
 ---
 

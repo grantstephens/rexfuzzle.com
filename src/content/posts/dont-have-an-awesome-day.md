@@ -7,7 +7,7 @@ tags:
   - awesome
   - well-wishing
   - good day
-description: ''
+description: "Have a nice day might be completely wrong- we shouldn't be waiting to have an awesome day, we should be making our own."
 ---
 
 You know when you're saying goodbye to someone or wishing them well you might end up saying something like "Have a nice day" or "Have a great time" or if you're being ambitious "Have an awesome day"- maybe all of those are completely wrong. Taking it a step further, maybe even saying something like "Hope you have an awesome day" is wrong. Let's be clear- the hope is probably (hopefully) not wrong, but having a certain day might be.

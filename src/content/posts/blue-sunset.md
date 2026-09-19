@@ -7,7 +7,7 @@ tags:
   - sunset
   - vaal
   - parys
-description: ''
+description: "The actual beginning- a late summer sunset on the Vaal river in Parys, evening star included."
 featureImage: /assets/images/blue-sunset/DSC00553-1024x768.jpg
 ---
 

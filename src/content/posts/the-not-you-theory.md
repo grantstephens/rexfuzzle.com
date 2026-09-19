@@ -6,7 +6,7 @@ tags:
   - theory
   - dating
   - friendship
-description: ''
+description: "Another conclusion about dating, which is weird since I have nothing to do with the dating world- the not you theory."
 ---
 
 Ok, so I just came to another conclusion about dating which is weird since I have nothing to do with the dating world.  

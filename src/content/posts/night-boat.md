@@ -7,7 +7,7 @@ tags:
   - sunset
   - vaal
   - boat
-description: ''
+description: "It has been a while, but when it's summer time then there are nights like this one."
 featureImage: /assets/images/night-boat/IMG_5699-1024x684.jpg
 ---
 

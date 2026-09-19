@@ -3,7 +3,7 @@ title: Dating
 slug: dating
 date: 2019-12-12T18:01:00.000Z
 tags: []
-description: ''
+description: "Real life is not a series of dates, it's laundry and dishes- why IKEA might be the best dating spot there is."
 ---
 
 What is the point of doing things on dates that you'll only ever do on dates. Real life is not a series of dates, it is doing laundry together, doing the dishes, cleaning the house. Ok, I've spent the whole weekend cleaning so that is all that is on my mind, but I think you get the point.

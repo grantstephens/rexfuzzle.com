@@ -5,7 +5,7 @@ date: 2013-01-26T18:18:05.000Z
 tags:
   - google
   - open
-description: ''
+description: "How to transfer your whole google life to a custom domain- the steps that worked, from much trial and error."
 ---
 
 So I recently acquired a new domain name with my name and then the process of transferring my google account over started as the new domain name was set up using google apps. This means that with my own custom domain name I get all the google features and so forth but without the @gmail.com part. The following steps worked and are result of much trial and error from various other sources.

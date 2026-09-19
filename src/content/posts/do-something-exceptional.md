@@ -10,7 +10,7 @@ tags:
   - bold
   - brave
   - passion
-description: ''
+description: "Watching other people be exceptional is a constant high that means we no longer want to do something exceptional ourselves."
 ---
 
 Sometimes the world is a scary place. The easy option is to sit and watch other people being exceptional. This gives you the satisfaction of watching somebody else being exceptional, but that fades quickly. The problem is that youtube/netflix/modern internet gives us unlimited access to watching other people being exceptional. We can essentially have a constant high just by watching other people doing amazing things.

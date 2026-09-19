@@ -5,7 +5,7 @@ date: 2012-03-16T04:20:00.000Z
 tags:
   - photo
   - sunset
-description: ''
+description: "A long overdue photo- the blue communications tower over Pretoria, no fancy photoshop."
 featureImage: /assets/images/blue-comm/IMG_4774-1024x682.jpg
 ---
 

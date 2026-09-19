@@ -32,7 +32,7 @@ description: A blog about 3D printing, photography, and whatever else comes up.
     {%- set num = post | postNumber(collections.postsOldestFirst) %}
     <div class="card-area">
       <div class="num-wrap"><div class="num-fill">{{ num }}</div><div class="num-mask">{{ num }}</div></div>
-      <p class="sentence">{{ post.templateContent | firstSentence }}</p>
+      <p class="sentence">{{ post.data.description or (post.templateContent | firstSentence) }}</p>
     </div>
     {%- endif %}
     {%- if tag %}<div class="eyebrow accent-text">{{ tag | upper }}</div>{%- endif %}

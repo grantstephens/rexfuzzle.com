@@ -3,7 +3,7 @@ title: Fail
 slug: fail
 date: 2019-12-09T18:37:00.000Z
 tags: []
-description: ''
+description: "I failed a choral audition and it really sucks- a first step in talking about failures, because that's how we learn from them."
 ---
 
 My name is Grant Stephens and sometimes I fail. Most recently at a choral audition. It really sucks. I mean it is by no means the end of the world and there are certainly worse things that have happened out there, but in that moment all you can think about it how you have failed and how much it hurts.

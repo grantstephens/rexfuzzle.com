@@ -4,7 +4,7 @@ slug: rob-blue
 date: 2012-01-06T08:19:00.000Z
 tags:
   - photo
-description: ''
+description: "A long hike around Robberg in Plettenberg bay, definitely worth it, as the picture clearly shows."
 featureImage: /assets/images/rob-blue/IMG_4612-1024x682.jpg
 ---
 

@@ -7,7 +7,7 @@ tags:
   - arduino
   - intervalometer
   - open
-description: ''
+description: "A brief summary of my simple Arduino based intervalometer project for shooting timelapses."
 featureImage: /assets/images/arduino-based-intervalometer/IMG_20130320_200922-1024x768.jpg
 ---
 

@@ -5,7 +5,7 @@ date: 2012-06-05T03:10:00.000Z
 tags:
   - positivity
   - winter
-description: ''
+description: "It's winter and cold, so here is a list of things to be positive about- ice cream lasts longer and every day is closer to spring."
 ---
 
 So where I live it is now winter and cold. Many people moan... sigh. I've made a list of things to be positive about it cold weather:  

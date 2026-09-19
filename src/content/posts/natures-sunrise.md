@@ -5,7 +5,7 @@ date: 2012-01-15T08:07:00.000Z
 tags:
   - photo
   - sunrise
-description: ''
+description: "Some places the sun sets over the ocean and other places it rises- here it was rising, beautifully."
 featureImage: /assets/images/natures-sunrise/IMG_4593a-1024x682.jpg
 ---
 

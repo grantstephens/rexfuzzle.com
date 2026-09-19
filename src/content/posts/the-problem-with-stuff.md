@@ -6,7 +6,7 @@ tags:
   - positivity
   - creativity
   - future
-description: ''
+description: "Ideas do not simply happen while walking down the road- there needs to be a problem. Conclusions from 2 hours of Musk and Branson interviews."
 ---
 
 So after watching close on 2 hours worth of interviews with people like Elon Musk and Richard Branson (Running simulations leaves a lot of free time) I have come to the following conclusions:  

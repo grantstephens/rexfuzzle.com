@@ -3,7 +3,7 @@ title: No Game Pain
 slug: no-game-pain
 date: 2020-01-23T15:32:00.000Z
 tags: []
-description: ''
+description: "Warming up very cold feet in the shower- pain so bad I cried, and a new reference point for everything else."
 ---
 
 So the other day I experienced pain so bad that for the first time in my adult life I cried due to physical pain.

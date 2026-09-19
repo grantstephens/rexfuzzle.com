@@ -5,7 +5,7 @@ date: 2012-01-13T08:20:00.000Z
 tags:
   - photo
   - sunset
-description: ''
+description: "When you get to a place called Kleinjongensfontein you might want to do a U-turn- the road doesn't carry on and there's nothing down the coast."
 featureImage: /assets/images/kjs-u/IMG_4711a-1024x682.jpg
 ---
 

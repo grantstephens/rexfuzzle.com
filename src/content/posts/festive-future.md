@@ -6,7 +6,7 @@ tags:
   - happiness
   - future
   - past
-description: ''
+description: "Time flies and the years keep rolling- is the test of a year whether you were happy, and what is happiness anyway? To me it's christmas time."
 ---
 
 Wow, so it is that time of the year again already. It is always amazing how times seems to have flown by when you suddenly get to the festive season and look back at the year. I don't think I have ever had a year when I haven't looked back and said wow, that year was long and drawn out. Yes there may be bits and piece that seem to have taken their time, but as a whole the years just keep on rolling. The question is though, is it a bad thing?  

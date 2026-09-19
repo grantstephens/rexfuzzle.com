@@ -6,7 +6,7 @@ tags:
   - travel
   - reflective
   - perspective
-description: ''
+description: "Besides the usual benefits, returning from travelling brings a new perspective- always makes me wonder if you can get it without the travel."
 featureImage: /assets/images/travel-reflective/IMG_20190815_214757-01-1.jpg
 ---
 

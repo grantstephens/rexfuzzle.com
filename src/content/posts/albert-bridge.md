@@ -7,7 +7,7 @@ tags:
   - bridge
   - thames
   - lights
-description: ''
+description: "Sometimes things belong in a different time, for example when colour photos weren't a thing yet."
 featureImage: /assets/images/albert-bridge/chealse-bridge.jpg
 ---
 

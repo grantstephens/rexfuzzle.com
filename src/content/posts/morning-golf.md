@@ -6,7 +6,7 @@ tags:
   - photo
   - sunrise
   - golf
-description: ''
+description: "The other morning I was playing golf and it was early and the sun came up."
 featureImage: /assets/images/morning-golf/IMG_20130428_071404-1024x768.jpg
 ---
 

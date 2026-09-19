@@ -7,7 +7,7 @@ tags:
   - online dating
   - tinder
   - hinge
-description: ''
+description: "Online dating is wasted effort on all sides- the solution is simple, only allow one ongoing conversation at a time."
 ---
 
 So I was at an event the other day and the subject turned to dating, specifically online dating. There were two definite sides to this- the boys and the girls.

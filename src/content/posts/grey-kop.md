@@ -4,7 +4,7 @@ slug: grey-kop
 date: 2012-01-07T08:10:00.000Z
 tags:
   - photo
-description: ''
+description: "Take a dull photo of nothing in particular, make it black and white, and this is what you get- once again taken in Namibia."
 featureImage: /assets/images/grey-kop/IMG_3983a-1024x682.jpg
 ---
 

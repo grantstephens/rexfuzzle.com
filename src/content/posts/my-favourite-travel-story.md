@@ -6,7 +6,7 @@ tags:
   - travel
   - nuts
   - squirrel
-description: ''
+description: "A squirrel throws a nut at me on the walk home from work- today I was the one that got away."
 ---
 
 One day I was walking home from work (You see what I did there- travel happens every day, you just have to think differently) and I heard a bit of a commotion above me.

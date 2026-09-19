@@ -5,7 +5,7 @@ date: 2012-10-06T04:54:00.000Z
 tags:
   - announcement
   - life
-description: ''
+description: "Life goes on- the blog moves to blog.rexfuzzle.com, other sites are on their way, and quality stuff is coming."
 ---
 
 Well, life goes on.  

@@ -3,7 +3,7 @@ title: Blockchain Government
 slug: blockchain-government
 date: 2016-08-05T22:00:00.000Z
 tags: []
-description: ''
+description: "What if every citizen had a transferrable vote on a blockchain- a DAO-style idea for keeping government accountable every day, not every 4/5 years."
 ---
 
 So the recent government elections here in South Africa got me thinking-  
