@@ -3,6 +3,7 @@ title: Making something smarter than yourself
 slug: making-something-smarter-than-yourself
 date: 2026-10-22T04:27:54.000Z
 tags: [AI, future]
+description: "AI is already better than me at most of my work, and it keeps improving. What happens when we make something smarter than ourselves?"
 ---
 Firstly, yes, this is a post about AI- apologies in advance. I've been using it quite a bit lately, mainly for work (coding) but for other bits and pieces too and have come to the conclusion that it's smarter than me. Not all the time and it misses things and so on, but the vast majority of the time it's just better. Now maybe this is more of a comment on my coding ability, or my words per minute typing, but even if that is the case- at the end of the day, it's better.
 
