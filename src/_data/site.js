@@ -1,7 +1,7 @@
 export default {
   url: "https://rexfuzzle.com",
   title: "RexFuzzle",
-  tagline: "3D printing, travel, and whatever else comes up.",
+  tagline: "Thoughts, pictures and implementation details.",
   author: {
     name: "Grant Stephens",
     mastodonHandle: "@g@defg.diy",
